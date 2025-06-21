@@ -1,7 +1,11 @@
+django
+djangorestframework
+pymongo
+django-cors-headers
 # Python backend requirements for OctoFit Tracker
 # Based on MonaFit Tracker reference
 
-django
+Django==4.1
 djangorestframework
 pymongo
 django-cors-headers
